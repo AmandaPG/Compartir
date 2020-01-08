@@ -19,6 +19,7 @@ public class Compartir {
         System.out.println("8 de enero de 2020");
         System.out.println("Rojo");
         System.out.println("Verde");
+        System.out.println("Amarillo");
     }
     
 }
