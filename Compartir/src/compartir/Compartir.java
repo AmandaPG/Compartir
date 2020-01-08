@@ -17,6 +17,8 @@ public class Compartir {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("8 de enero de 2020");
+        System.out.println("Rojo");
+        System.out.println("Verde");
     }
     
 }
