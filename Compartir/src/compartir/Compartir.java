@@ -22,6 +22,7 @@ public class Compartir {
         System.out.println("Amarillo");
         System.out.println("blanco");
         System.out.println("Negro");
+        System.out.println("Viernes");
 
     }
     
